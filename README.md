@@ -1,4 +1,3 @@
-# CEH_notes
 My notes
 ### Host Discovery ###
 nmap -sn <IP Block>
